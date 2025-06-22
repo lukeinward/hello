@@ -2,4 +2,4 @@
 
 > Simulated system boot. Typing terminal. Toolchain status.
 
-[▶️ Open Console](https://yourusername.github.io/yourrepo/console.html)
+[▶️ Open Console](https://lukeinward.github.io/hello/console.html)
